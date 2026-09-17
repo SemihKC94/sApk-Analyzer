@@ -1,0 +1,9 @@
+# sApkAnalyzer has zero external dependencies!
+# It runs directly using Python 3.8+ standard libraries.
+#
+# Standard modules used:
+# - http.server & socketserver
+# - subprocess
+# - threading & queue
+# - json & urllib.parse
+# - webbrowser & argparse
